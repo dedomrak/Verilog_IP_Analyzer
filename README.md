@@ -3,7 +3,7 @@
 
 Verilog IP Analyzer uses the commercial Verific library to analyze and extract information and primitives from the IP described in a Verilog file.
 In this light version, this software finds the top module and extracts its ports and information about the types and directions. It exports them to a CSV formatted file for further processing with CSVParser or TCL scripts.
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](https://github.com/dedomrak/Verilog_IP_Analyzer/blob/main/PrintScreen1.png/468x300?text=App+Screenshot+Here)
 The full version of the software can detect and export many more features and here I have shown in this sample extracted file:
 ```javascript
 -- Analyzing Verilog file '.\test_designs\mb_processor.v' (VERI-1482)
