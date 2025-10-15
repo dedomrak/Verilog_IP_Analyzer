@@ -95,7 +95,8 @@ DIP_Switches_GPIO_IO_I_pin[3:0] ,       	    Input   ,       WIRE,
 Press <RETURN> to close this window...
 
 ```
-Since the Verific library is a commercial source that is paid for, it is not included here. For information about the Verific Verilog parser and library, see www.verific.com. 
+Since the Verific library is a commercial source that is paid for, it is not included here. 
+For information about the Verific Verilog parser and library, see www.verific.com. 
 
 
 ## Build
